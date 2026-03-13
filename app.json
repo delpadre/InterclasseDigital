@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Interclasse Digital",
+    "slug": "interclasse-digital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.interclasse.digital"
+    }
+  }
+}
