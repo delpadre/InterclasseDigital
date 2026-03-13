@@ -72,10 +72,9 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 
 | Nome | RM |
 |------|----|
-| Rafael | RM-552765 |
+| Rafael Del Padre | RM-552765 |
+| Rafael de Almeida | RM-554019 |
 | Giovanna | RM-553701 |
-| Rafael | RM-554019 |
-
 ---
 
 ## 📸 Telas do Aplicativo
