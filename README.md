@@ -79,16 +79,18 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 
 ## 📸 Telas do Aplicativo
 
-> Modalidades
-![Modalidades](./screenshots/modalidades.png)
-
+![Modalidades](./screenshots/modalidades.jpg)
+![Cadastrar](./screenshots/CadastrarJogo.jpeg)
+![Classificação](./screenshots/Classificação.jpeg)
+![Calendario](./screenshots/Calendario.jpeg)
+ 
 ---
 
 ## 🧪 Testes de API
 
 > Adicione aqui os prints dos testes feitos no Postman / Thunder Client / Insomnia para cada endpoint
 
----
+![Listar Jogos](./screenshots/GetJogos.jpeg)
 
 ## 🎥 Vídeo do Projeto
 
