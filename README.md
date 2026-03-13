@@ -82,7 +82,6 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 > Modalidades
 
 
-
 ---
 
 ## 🧪 Testes de API
