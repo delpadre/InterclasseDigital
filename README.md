@@ -80,7 +80,7 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 ## 📸 Telas do Aplicativo
 
 > Modalidades
-
+![Modalidades](./screenshots/modalidades.png)
 
 ---
 
