@@ -91,6 +91,10 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 > Adicione aqui os prints dos testes feitos no Postman / Thunder Client / Insomnia para cada endpoint
 
 ![Listar Jogos](./screenshots/GetJogos.jpeg)
+![Listar Jogos](./screenshots/CadastrarTime.jpeg)
+![Listar Jogos](./screenshots/Delete.jpeg)
+![Listar Jogos](./screenshots/Classificacao.jpeg)
+![Listar Jogos](./screenshots/Cadastrar.jpeg)
 
 ## 🎥 Vídeo do Projeto
 
