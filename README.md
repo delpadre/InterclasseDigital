@@ -79,7 +79,9 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 
 ## 📸 Telas do Aplicativo
 
-> Adicione aqui os prints das telas do app (Modalidades, Classificação, Calendário, Cadastro)
+> Modalidades
+
+
 
 ---
 
