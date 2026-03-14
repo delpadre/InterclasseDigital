@@ -88,8 +88,6 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 
 ## 🧪 Testes de API
 
-> Adicione aqui os prints dos testes feitos no Postman / Thunder Client / Insomnia para cada endpoint
-
 ![Listar Jogos](./screenshots/GetJogos.jpeg)
 ![Listar Jogos](./screenshots/CadastrarTime.jpeg)
 ![Listar Jogos](./screenshots/Delete.jpeg)
@@ -98,6 +96,6 @@ Base URL: `https://69b444ecbe587338e7134c88.mockapi.io`
 
 ## 🎥 Vídeo do Projeto
 
-> Adicione aqui o link do vídeo explicativo do projeto
+> https://youtu.be/qfO0lr2gc2k
 
 ---
